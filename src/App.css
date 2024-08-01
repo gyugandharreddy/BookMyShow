@@ -1,0 +1,35 @@
+ 
+.nav {
+    background-color: azure;
+    width: 100%;
+}
+
+.auth-container {
+    background-color: orangered;
+    height: 100vh;
+    
+}
+.img-container{
+margin-top: 1rem;
+}
+.card-body {
+    border-radius: 30px;
+background-color: bisque;
+height: 40%;
+width: 100;
+}
+.maindiv {
+grid-template-columns: repeat(3,1fr);
+}
+
+.card_img {
+width:100%;
+
+}
+
+.logout_btn {
+    background-color:green !important;
+    border: none !important;
+}
+
+
